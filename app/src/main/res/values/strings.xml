@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Musical Application</string>
+    <string name="content">To open songs list click Maher Zain Songs card if you want to open photos
+        activity click photos list button
+    or to About activity click About Maher Zain Button  </string>
+    <string name="maher">Maher Zian Songs</string>
+    <string name="Photos">Photos</string>
+    <string name="maherPhotos">Maher Zian Photos</string>
+    <string name="theuse">This Activity display some photos for the artist Maher Zain if you want
+        to back to songs list click songs list button
+    or to About activity click About Maher Zain Button </string>
+    <string name="list">This activity display list of Maher Zain\'s songs when we click on any song
+        the media player switch on as we click on play button and if we click pause button the media
+        player pause use stop to stop the media player </string>
+    <string name="songs"> Songs List</string>
+    <string name="about">About Maher Zian </string>
+    <string name="informationAbout">This activity display information about  Maher Zain if you want
+        to back to songs list click songs list button
+    or to photos activity click photos list </string>
+    <string name="openPhoto"> Photo List</string>
+    <string name="information">Maher Zain
+        \n(born 16 July 1981) is a Swedish R and B singer, songwriter and music producer of Lebanese origin.</string>
+    <string name="extraInfo">
+        \n He released his debut album Thank You Allah, an internationally successful album produced
+        by Awakening Records, in 2009.He released his follow-up album Forgive Me in April 2012 under
+        the same production company.</string>
+    <string name="onlineInfo">\nFor Extra Information visit this link : https://en.wikipedia.org/wiki/Maher_Zain</string>
+
+
+</resources>
