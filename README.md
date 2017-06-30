@@ -7,10 +7,10 @@ This project is to combine and practice everything you learned in program. You w
 # What will i learn?
 This project is about combining various ideas and skills we’ve been practicing throughout the course. They include:
 
-   1- Designing an app experience to achieve a certain goal
-   2- Creating new activities
-   3- Using explicit Intents to link between activities in your app.
-   4- Using OnClickListeners to add behavior to buttons using Java code.
+    1- Designing an app experience to achieve a certain goal
+    2- Creating new activities
+    3- Using explicit Intents to link between activities in your app.
+    4- Using OnClickListeners to add behavior to buttons using Java code.
 
 # Requirements
 Select a potential structure and create an app with that structure in Android Studio. Your app should have 3 to 6 Activities. Some ideas for Activities would be:
