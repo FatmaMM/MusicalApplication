@@ -11,6 +11,7 @@ This project is about combining various ideas and skills we’ve been practicing
     2- Creating new activities
     3- Using explicit Intents to link between activities in your app.
     4- Using OnClickListeners to add behavior to buttons using Java code.
+  # project will be evaluated using the [Musical Structure project rubric](https://review.udacity.com/#!/rubrics/159/view).
 
 # Requirements
 Select a potential structure and create an app with that structure in Android Studio. Your app should have 3 to 6 Activities. Some ideas for Activities would be:
